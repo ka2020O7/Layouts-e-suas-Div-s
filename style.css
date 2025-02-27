@@ -1,21 +1,27 @@
 body{
-
-background-color: yellow;
-
+    background-color: blanchedalmond;
 }
 
-.auzl {
-
-    background-color: blue;
+.azul{
+    background-color: rgb(105, 203, 255);
     padding: 100px;
-
+    margin: 300px;
 }
 
 .amarelo{
-
-    background-color: yellow;
+    background-color: rgb(255, 220, 105);
     padding: 100px;
-    margin: 50px;
+    margin: 20px;
+}
 
+.extender{
+    background-color: rgb(191, 151, 19) ;
+    padding-right: 350px;
+}
+.flex{
+    display: flex;
+
+}
+div{
 }
 
